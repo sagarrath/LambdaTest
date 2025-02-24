@@ -1,0 +1,2 @@
+- run by terminal - `mvn clean install -U`
+- tweak any improvement needd
