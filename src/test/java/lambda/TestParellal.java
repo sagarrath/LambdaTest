@@ -21,8 +21,8 @@ public class TestParellal {
 	public void loginTest(String browserName, String browserVersion, String osVersion) throws MalformedURLException {
 		WebDriver driver = null;
 		HashMap<String, Object> ltOptions = new HashMap<String, Object>();
-		ltOptions.put("username", "pulusatapathy");
-		ltOptions.put("accessKey", "LT_vnTtE7Kz2JdZxDMdHcYILw8YqMD67aJVEhWyE4GFf2cTdoL");
+		ltOptions.put("username", "s.k.rath370");
+		ltOptions.put("accessKey", "LT_PJu4i7Gnp48MYaod5g9OIfFHTNM7TkClECX2CZJWiOkYMwl");
 		ltOptions.put("resolution", "1920x1080");
 		ltOptions.put("build", "selnmBuild");
 		ltOptions.put("project", "selTest");
